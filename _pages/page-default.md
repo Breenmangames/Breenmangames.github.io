@@ -1,6 +1,6 @@
 ---
-title: "Default Layout"
-layout: default
+title: "Games!"
+layout: Games
 permalink: /pages/default/
 ---
 
