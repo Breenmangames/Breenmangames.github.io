@@ -1,5 +1,5 @@
 ---
-title: "Page Title"
+title: "BreenmanGames"
 layout: splash
 permalink: /
 header:
