@@ -1,6 +1,6 @@
 ---
-title: "Splash Layout"
-layout: splash
+title: "Applications!"
+layout: Apps
 permalink: /pages/splash/
 header:
   overlay_color: "#000"
