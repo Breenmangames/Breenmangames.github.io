@@ -1,6 +1,6 @@
 ---
-title: "Single Layout"
-layout: single
+title: "Animations!"
+layout: Animations
 permalink: /pages/single/
 skills:
   - name: "Unity"
