@@ -12,9 +12,9 @@ header:
       target: "_blank"
 
 
-excerpt: "You can add text here."
+excerpt: "Boardgame Designer with a passion for card games! "
 intro: 
-  - excerpt: 'You can also add text like this....'
+  - excerpt: 'Creator of the Party Brawl card battling drinking game and much much more!'
 feature_row:
   - image_path: /assets/images/placeholder.png
     alt: "placeholder image 1"
