@@ -39,10 +39,10 @@ author:
       # url: "https://twitter.com/"
     - label: "Facebook" # Facebook link
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      # url: "https://www.facebook.com/Breenman"
     - label: "GitHub" # GitHub link
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      # url: "https://breenmangames.github.io"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -56,7 +56,7 @@ footer: # Site footer
       target: "_blank"
     - label: "Facebook" # Facebook link
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      # url:"https://www.facebook.com/Breenman"
       target: "_blank"
     - label: "GitHub" # GitHub link
       icon: "fab fa-fw fa-github"
