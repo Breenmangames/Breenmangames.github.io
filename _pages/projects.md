@@ -1,9 +1,9 @@
 ---
 title: "Personal Projects!"
 layout: single
-permalink: /Personal Projects/
+permalink: /projects/
 sidebar:
-  title: "Projects"
+  title: "My Game Development Journey!"
   nav:
     - projects
  
