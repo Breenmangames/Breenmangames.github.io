@@ -7,8 +7,8 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/1512c02b-3523-4934-b2a3-dc7dabe8673c.jpg
   actions:
-    - label: "Download CV"
-      url: "https://ulster-my.sharepoint.com/:w:/r/personal/breen-e18_ulster_ac_uk/Documents/GameDevCVEoghan.docx?d=w6bd360bfc2bd4323a333ee0f59ac6d67&csf=1&web=1&e=lasGyR"
+    - label: "Have a look at my Resume!"
+      url: "https://ulster-my.sharepoint.com/:w:/r/personal/breen-e18_ulster_ac_uk/Documents/EoghanBreen25cv%20(1).doc-1.docx?d=w71d77f928e9a4e4f8aacac5bbab244b1&csf=1&web=1&e=IzEvvV"
       target: "_blank"
 
 
