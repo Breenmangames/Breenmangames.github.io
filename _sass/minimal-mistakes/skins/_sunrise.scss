@@ -7,9 +7,9 @@ $dark-gray: #0e2431 !default;
 $background-color: #FFFCF9 !default;
 $text-color: #000 !default;
 $muted-text-color: $dark-gray !default;
-$primary-color: #B1EDE8 !default;
+$primary-color: #B1EDE8;
 $border-color: mix(#000, $background-color, 20%) !default;
-$code-background-color: mix(#B1EDE8, $background-color, 20%) !default;
+$code-background-color: mix(#B1EDE8, $background-color, 20%);
 $code-background-color-dark: mix(#000, $background-color, 10%) !default;
 $form-background-color: mix(#fff, $background-color, 15%) !default;
 $footer-background-color: #EDAFB8 !default;
@@ -19,7 +19,7 @@ $link-color-visited: mix(#000, $link-color, 25%) !default;
 $masthead-link-color: $text-color !default;
 $masthead-link-color-hover: mix(#000, $text-color, 20%) !default;
 $navicon-link-color-hover: mix(#A9FDAC, $background-color, 30%) !default;
-$masthead-color: #06AED5 !default;
+$masthead-background-color: #06AED5;
 
 /* notices */
 $notice-background-mix: 75% !default;
