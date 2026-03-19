@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/1512c02b-3523-4934-b2a3-dc7dabe8673c.jpg
   actions:
     - label: "Have a look at my Resume!"
-      url: "https://ulster-my.sharepoint.com/:w:/r/personal/breen-e18_ulster_ac_uk/Documents/EoghanBreen25cv%20(1).doc-1.docx?d=w71d77f928e9a4e4f8aacac5bbab244b1&csf=1&web=1&e=IzEvvV"
+      url: "https://ulster-my.sharepoint.com/:b:/r/personal/breen-e18_ulster_ac_uk/Documents/EoghanBreenGameDevCV.pdf?csf=1&web=1&e=V0M9l2"
       target: "_blank"
 
 
