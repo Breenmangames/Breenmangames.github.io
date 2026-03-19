@@ -32,7 +32,7 @@ feature_row:
     title: "Ode to Silvervale"
     excerpt: "Join Mallory and his friends on an adventure to save the world in this RPG Adventure!"
 ---
-color: "db3069"
+
 
 {% include feature_row id="intro" type="center" %}
 
