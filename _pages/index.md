@@ -27,7 +27,7 @@ feature_row:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/placeholder-2.png
+  - image_path: /assets/images/OdetoSilvervale.png
     alt: "placeholder image 4"
     title: "Ode to Silvervale"
     excerpt: "Join Mallory and his friends on an adventure to save the world in this RPG Adventure!"
