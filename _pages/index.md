@@ -20,7 +20,7 @@ feature_row:
     alt: "placeholder"
     title: "Party Brawl!"
     excerpt: "The drinking card game for those with strategy and competitive spirit!"
-  - image_path: /assets/images/placeholder.png
+  - image_path: /assets/images/VillainyPic.jpg
     alt: "placeholder image 2"
     title: "Absolute Villainy"
     excerpt: "Stop the villain at all costs in this 3v1 card based boardgame!"
