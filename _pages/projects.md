@@ -6,7 +6,7 @@ sidebar:
   title: "Projects"
   nav:
     - projects
- color: "db3069"
+ 
 ---
 
 Welcome everyone to my personal Projects page! Here you will find all the projects i have worked on as a game designer in my own time and to give you an idea of my journey as a games developer!
