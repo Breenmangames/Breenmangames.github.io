@@ -3,7 +3,7 @@ title: "BreenmanGames"
 layout: splash
 permalink: /
 header:
-  overlay_color: "#db3069"
+  overlay_color: "db3069"
   overlay_filter: "0.5"
   overlay_image: /assets/images/1512c02b-3523-4934-b2a3-dc7dabe8673c.jpg
   actions:
