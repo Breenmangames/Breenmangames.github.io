@@ -4,8 +4,8 @@ layout: Games
 permalink: /pages/default/
 ---
 
-This page uses the `default` layout. It is a minimal wrapper around your content.
-You can use it for simple pages where you want full control over the markup.
+Do you wish to get into contact with me? Do you have an idea? a business offer? or even a complaint?
+Use the form below and i will get in touch!
 
 {% include download
   title="Download my Project Proposal"
@@ -16,6 +16,6 @@ You can use it for simple pages where you want full control over the markup.
 
 {% include google-form
   title="Contact Me"
-  src="https://forms.gle/XsbApFoRjn7r24jy6"
+  src="https://docs.google.com/forms/d/e/1FAIpQLSeMGdRu8RZfmrqVxx0N_86UCKC4cxoiAh6Ny8H36sle3HWltw/viewform?usp=publish-editor"
   height="800"
 %}
