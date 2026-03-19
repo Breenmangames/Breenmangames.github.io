@@ -1,16 +1,17 @@
 ---
-title: "Projects"
+title: "Personal Projects!"
 layout: single
-permalink: /projects/
+permalink: /Personal Projects/
 sidebar:
   title: "Projects"
   nav:
     - projects
+ color: "db3069"
 ---
 
-Welcome to the projects page. This is where you can list your game projects.
+Welcome everyone to my personal Projects page! Here you will find all the projects i have worked on as a game designer in my own time and to give you an idea of my journey as a games developer!
 
-You can use this page to show a reel of all projects and then have a separate page for each project.
+I hope some of these games are to your liking and that you use them as a source for your own inspiration!
 
 
 
