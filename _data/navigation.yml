@@ -7,9 +7,8 @@ main:
     children:
       - title: "Ode To Silvervale"
         url: /projects/game-jam/
-    
-    -title: "My Board Games!"
-        url: /Board-Games/
+  -title: "My Board Games!"
+    url: /Board-Games/
     children:
       - title: "Default Layout"
         url: /pages/default/
