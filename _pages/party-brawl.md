@@ -1,6 +1,6 @@
 ---
 title: "Party Brawl"
-layout: Animations
+layout: single
 permalink: /Board-Games/party-brawl
 skills:
   - name: "Unity"
