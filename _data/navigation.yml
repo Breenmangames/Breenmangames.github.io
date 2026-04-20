@@ -5,10 +5,10 @@ main:
   - title: "My Video Games!"
     url: /Video-Games/
     children:
-  - title: "Ode To Silvervale"
-    url: /projects/game-jam/
-  - title: "My Board Games!"
-    url: /Board-Games/
+      - title: "Ode To Silvervale"
+        url: /projects/game-jam/
+      - title: "My Board Games!"
+        url: /Board-Games/
     children:
       - title: "Default Layout"
         url: /pages/default/
@@ -30,6 +30,6 @@ projects:
 # Sidebar menu for the Pages page
 pages:
   - title: "Party Brawl"
-        url: /projects/game-jam/
+    url: /Board-Games/game-jam/
   - title: "Absolute Villainy"
-        url: /projects/capstone/
+    url: /Board-Games/capstone/
