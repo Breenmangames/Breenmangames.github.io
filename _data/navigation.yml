@@ -8,12 +8,12 @@ main:
   - title: "My Board Games!"
     url: /Board-Games/
     children:
-      - title: "Default Layout"
+      - title: "Party Brawl"
         url: /pages/default/
-      - title: "Single Layout"
+      - title: "Absolute Villainy"
         url: /pages/single/
-      - title: "Splash Layout"
-        url: /pages/splash/
+      - title: " Board Game Business Proposal"
+        url: /Board-Games/proposal
   - title: "Components"
     url: /components/
 
@@ -24,7 +24,7 @@ projects:
   - title: "Ode To Silvervale"
     url: /Video-Games/Ode-To-Silvervale/
 
-# Sidebar menu for the Board Gememes page
+# Sidebar menu for the Board Gemes page
 pages:
   - title: "Party Brawl"
     url: /Board-Games/game-jam/
