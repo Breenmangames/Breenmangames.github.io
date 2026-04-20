@@ -1,6 +1,6 @@
 ---
 title: "Board Game Business Proposal"
-layout: Games
+layout: page
 permalink: /Board-Games/proposal
 ---
 
