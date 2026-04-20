@@ -1,7 +1,7 @@
 ---
-title: "Games!"
+title: "Board Game Business Proposal"
 layout: Games
-permalink: /pages/default/
+permalink: /Board-Games/proposal
 ---
 
 Do you wish to get into contact with me? Do you have an idea? a business offer? or even a complaint?
