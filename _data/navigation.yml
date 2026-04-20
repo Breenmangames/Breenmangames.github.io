@@ -5,8 +5,6 @@ main:
     url: /
   - title: "My Video Games!"
     url: /Video-Games/
-  - title: "Ode To Silvervale"
-    url: /projects/game-jam/
   - title: "My Board Games!"
     url: /Board-Games/
     children:
@@ -19,14 +17,14 @@ main:
   - title: "Components"
     url: /components/
 
-# Sidebar menu for the Projects page
+# Sidebar menu for the Video Games page
 projects:
   - title: "University Year 1 Projects!"
     url: /Video-Games/Uni-Year-1/
   - title: "Ode To Silvervale"
     url: /Video-Games/Ode-To-Silvervale/
 
-# Sidebar menu for the Pages page
+# Sidebar menu for the Board Gememes page
 pages:
   - title: "Party Brawl"
     url: /Board-Games/game-jam/
