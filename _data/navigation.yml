@@ -9,9 +9,9 @@ main:
     url: /Board-Games/
     children:
       - title: "Party Brawl"
-        url: /pages/default/
+        url: /Board-Games/party-brawl
       - title: "Absolute Villainy"
-        url: /pages/single/
+        url: /Board-Games/absolute-villainy
       - title: " Board Game Business Proposal"
         url: /Board-Games/proposal
   - title: "Components"
@@ -24,9 +24,9 @@ projects:
   - title: "Ode To Silvervale"
     url: /Video-Games/Ode-To-Silvervale/
 
-# Sidebar menu for the Board Gemes page
+# Sidebar menu for the Board Games page
 pages:
   - title: "Party Brawl"
-    url: /Board-Games/game-jam/
+    url: /Board-Games/party-brawl
   - title: "Absolute Villainy"
-    url: /Board-Games/capstone/
+    url: /Board-Games/absolute-villainy
