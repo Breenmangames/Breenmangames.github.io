@@ -17,7 +17,7 @@ main:
     url: /components/
 
 # Sidebar menu for the Video Games page
-My Video Game Development Journey!:
+projects:
   - title: "University Year 1 Projects!"
     url: /Video-Games/Uni-Year-1/
   - title: "Ode To Silvervale"
