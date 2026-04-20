@@ -1,24 +1,23 @@
 # main links
+# main links
 main:
   - title: "Home"
     url: /
   - title: "My Video Games!"
     url: /Video-Games/
-    children:
-    - title: "Ode To Silvervale"
-      url: /projects/game-jam/
-  -title: "My Board Games!"
+  - title: "Ode To Silvervale"
+    url: /projects/game-jam/
+  - title: "My Board Games!"
     url: /Board-Games/
     children:
-     - title: "Default Layout"
+      - title: "Default Layout"
         url: /pages/default/
-     - title: "Single Layout"
-       url: /pages/single/
-     - title: "Splash Layout"
-       url: /pages/splash/
+      - title: "Single Layout"
+        url: /pages/single/
+      - title: "Splash Layout"
+        url: /pages/splash/
   - title: "Components"
     url: /components/
- 
 
 # Sidebar menu for the Projects page
 projects:
