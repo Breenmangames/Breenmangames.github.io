@@ -1,6 +1,6 @@
 ---
 title: "Ode To Silvervale"
-layout: single
+layout: splash
 permalink: /Video-Games/Ode-To-Silvervale/
 sidebar:
   title: "Development timeline"
