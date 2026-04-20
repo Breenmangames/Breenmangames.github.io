@@ -1,11 +1,11 @@
 ---
-title: "Pages"
+title: "My Board Games!"
 layout: single
-permalink: /pages/
+permalink: /Board-Games/
 sidebar:
-  title: "Page Templates"
+  title: "Board Game Projects"
   nav:
-    - pages
+    - Board Games
 ---
 
 This section shows each available layout template so students can compare them.
