@@ -3,9 +3,9 @@ title: "Ode To Silvervale"
 layout: single
 permalink: /Video-Games/Ode-To-Silvervale/
 sidebar:
-  title: "Board Games Projects!"
+  title: "Development timeline"
   nav:
-    - Board Games Projects!
+    - Ode to Silvervale development
 ---
 
 This page is another project page that is nested within Projects.
