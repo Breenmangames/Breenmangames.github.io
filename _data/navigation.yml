@@ -2,14 +2,12 @@
 main:
   - title: "Home"
     url: /
-  - title: "Projects"
+  - title: "My Video Games!"
     url: /projects/
     children:
-      - title: "Game Jam"
-        url: /projects/game-jam/
-      - title: "Capstone"
-        url: /projects/capstone/
-  - title: "Pages"
+  - title: "Ode To Silvervale"
+    url: /projects/game-jam/
+  - title: "My Board Games!"
     url: /pages/
     children:
       - title: "Default Layout"
@@ -24,16 +22,14 @@ main:
 
 # Sidebar menu for the Projects page
 projects:
-  - title: "Game Jam"
+  - title: "University Year 1 Porjects!"
     url: /projects/game-jam/
-  - title: "Capstone"
+  - title: "Ode To Silvervale"
     url: /projects/capstone/
 
 # Sidebar menu for the Pages page
 pages:
-  - title: "Default Layout"
-    url: /pages/default/
-  - title: "Single Layout"
-    url: /pages/single/
-  - title: "Splash Layout"
-    url: /pages/splash/
+  - title: "Party Brawl"
+        url: /projects/game-jam/
+  - title: "Absolute Villainy"
+        url: /projects/capstone/
