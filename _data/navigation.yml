@@ -3,12 +3,12 @@ main:
   - title: "Home"
     url: /
   - title: "My Video Games!"
-    url: /projects/
+    url: /Video-Games/
     children:
   - title: "Ode To Silvervale"
     url: /projects/game-jam/
   - title: "My Board Games!"
-    url: /pages/
+    url: /Board-Games/
     children:
       - title: "Default Layout"
         url: /pages/default/
@@ -23,9 +23,9 @@ main:
 # Sidebar menu for the Projects page
 projects:
   - title: "University Year 1 Projects!"
-    url: /projects/game-jam/
+    url: /Video-Games/Uni-Year-1/
   - title: "Ode To Silvervale"
-    url: /projects/capstone/
+    url: /Video-Games/Ode-To-Silvervale/
 
 # Sidebar menu for the Pages page
 pages:
