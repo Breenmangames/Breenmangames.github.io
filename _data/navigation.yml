@@ -10,14 +10,10 @@ main:
       - title: "Party Brawl"
         url: /Board-Games/party-brawl
       - title: "Absolute Villainy"
-        url: /Board-Games/absolute-villainy
-      - title: " Board Game Business Proposal"
-        url: /Board-Games/proposal
-      - title: "University Year 1 Projects!"
-        url: /Video-Games/Uni-Year-1/
+        url: /Board-Games/absolute-villainy/
       - title: "Ode To Silvervale"
         url: /Video-Games/Ode-To-Silvervale/
-      - title: "Components"
+  - title: "Components"
     url: /components/
 
 # Sidebar menu for the Video Games page
