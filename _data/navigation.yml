@@ -24,7 +24,7 @@ VideoGames:
     url: /Video-Games/Ode-To-Silvervale/
 
 # Sidebar menu for the Board Games page
-Board Games:
+BoardGames:
   - title: "Party Brawl"
     url: /Board-Games/party-brawl
   - title: "Absolute Villainy"
