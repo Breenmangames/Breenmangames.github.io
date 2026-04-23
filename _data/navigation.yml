@@ -8,9 +8,9 @@ main:
     url: /Board-Games/
     children:
       - title: "Party Brawl"
-        url: /Board-Games/party-brawl
+        url: /Board-Games/party-brawl/
       - title: "Absolute Villainy"
-        url: /Board-Games/absolute-villainy/
+        url: /Board-Games/party-brawl/
       - title: "Ode To Silvervale"
         url: /Video-Games/Ode-To-Silvervale/
   - title: "Components"
