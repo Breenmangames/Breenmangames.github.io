@@ -13,7 +13,11 @@ main:
         url: /Board-Games/absolute-villainy
       - title: " Board Game Business Proposal"
         url: /Board-Games/proposal
-  - title: "Components"
+      - title: "University Year 1 Projects!"
+        url: /Video-Games/Uni-Year-1/
+      - title: "Ode To Silvervale"
+        url: /Video-Games/Ode-To-Silvervale/
+      - title: "Components"
     url: /components/
 
 # Sidebar menu for the Video Games page
