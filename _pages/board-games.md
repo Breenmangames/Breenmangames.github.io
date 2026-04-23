@@ -5,7 +5,7 @@ permalink: /Board-Games/
 sidebar:
   title: "Board Game Projects"
   nav:
-    - Board Games
+    - BoardGames
 ---
 
 This section shows each available layout template so students can compare them.
