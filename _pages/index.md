@@ -20,17 +20,23 @@ feature_row:
     alt: "placeholder"
     title: "Party Brawl!"
     excerpt: "The drinking card game for those with strategy and competitive spirit!"
+    url: /Board-Games/party-brawl/
   - image_path: /assets/images/VillainModel.png
     alt: "placeholder image 2"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
     title: "Absolute Villainy"
     excerpt: "Stop the villain at all costs in this 3v1 card based boardgame!"
-    url: "#test-link"
+    url: /Board-Games/absolute-villainy/
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/OdetoSilvervale.png
     alt: "placeholder image 4"
     title: "Ode to Silvervale"
     excerpt: "Join Mallory and his friends on an adventure to save the world in this RPG Adventure!"
+    url: /Video-Games/Ode-To-Silvervale/
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 
 
