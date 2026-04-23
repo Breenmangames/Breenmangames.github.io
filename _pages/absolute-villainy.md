@@ -1,7 +1,7 @@
 ---
 title: "Applications!"
 layout: Apps
-permalink: /Board-Games/absolute-villainy
+permalink: /Board-Games/absolute-villainy/
 header:
   overlay_color: "#000"
   overlay_filter: "0.35"
