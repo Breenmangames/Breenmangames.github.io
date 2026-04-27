@@ -15,5 +15,7 @@ skills:
     level_label: "Beginner"
 ---
 
-This page uses the `single` layout. It adds a page title, meta area, and supports a sidebar.
-Good for standard content pages like About or Project detail pages.
+Welcome all the Party Brawl Main Page! Here you will find all the information you will ever need for in relation to this game!
+
+
+
