@@ -1,6 +1,6 @@
 ---
 title: "University Year 1 Projects!"
-image_path: assets/images/PartyBrawlPick.png
+
 layout: single
 permalink: /Video-Games/Uni-Year-1/
 sidebar:
@@ -9,4 +9,8 @@ sidebar:
     - Uni Year 1
 
 ---
+
+image_path: assets/images/PartyBrawlPick.png
+
+
 This is a project page that is a child of Projects. Take a look at `projects-game-jam.md`to how see the sidebar key displays the nested navigation. 
