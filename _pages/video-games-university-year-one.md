@@ -9,7 +9,7 @@ sidebar:
     - Uni Year 1
 
 ---
-{% include figure image_path= "assets/images/PartyBrawlPick.png"alt="Party Brawl Board Placeholder Image" caption="This is the first draft of the Party Brawl Design!" %}
+{% include figure image_path= "assets/images/PartyBrawlPick.png"alt="Party Brawl Board Placeholder Image" caption="This is the first draft of the Party Brawl Design!"%}
 
 
 
