@@ -10,7 +10,8 @@ sidebar:
 
 ---
 
-{% include figure image_path="assets/images/PartyBrawlPick.png alt="Party Brawl Board Placeholder Image" caption="This is the first draft of the Party Brawl Design!" %}
+{% include figure image_path= assets/images/PartyBrawlPick.png 
+alt="Party Brawl Board Placeholder Image" caption="This is the first draft of the Party Brawl Design!" %}
 
 
 This is a project page that is a child of Projects. Take a look at `projects-game-jam.md`to how see the sidebar key displays the nested navigation. 
