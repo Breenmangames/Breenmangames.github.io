@@ -31,6 +31,3 @@ This is a project page that is a child of Projects. Take a look at `projects-gam
 
 
 
-- image_path: assets/images/PartyBrawl/PBItem.png
-    alt: "Party Brawls Items"
-    title: "Party Brawls Item Cards"
