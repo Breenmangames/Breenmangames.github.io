@@ -17,7 +17,7 @@ feature_row:
  - image_path: assets/images/PartyBrawl/PBEvent.png
     alt: "Party Brawls Events"
     title: "Party Brawls Event Cards"
-   - image_path: assets/images/PartyBrawl/PBItem.png
+ - image_path: assets/images/PartyBrawl/PBItem.png
     alt: "Party Brawls Items"
     title: "Party Brawls Item Cards"
     
