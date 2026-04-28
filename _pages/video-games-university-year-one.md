@@ -1,7 +1,7 @@
 ---
 title: "University Year 1 Projects!"
 
-layout: single
+layout: splash
 permalink: /Video-Games/Uni-Year-1/
 sidebar:
   title: "University Year 1 Projects"
