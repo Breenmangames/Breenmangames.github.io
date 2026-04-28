@@ -10,7 +10,7 @@ sidebar:
 
     
 ---
-{% include figure image_path="/assets/images/placeholder-2.png" alt="Game Jam screenshot" caption="This is a caption" %}
+{% include figure image_path="assets/images/PartyBrawl/PartBrawlerMonster.png" alt="Party Brawl Monster Card" caption="This is the Creature Card of the game!" %}
 
 
 
