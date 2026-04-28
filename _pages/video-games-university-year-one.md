@@ -1,5 +1,6 @@
 ---
 title: "University Year 1 Projects!"
+- image_path: assets/images/PartyBrawlPick.png
 layout: single
 permalink: /Video-Games/Uni-Year-1/
 sidebar:
