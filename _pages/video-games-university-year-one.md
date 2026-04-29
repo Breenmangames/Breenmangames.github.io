@@ -8,7 +8,7 @@ sidebar:
   nav:
     - Uni Year 1
     
-gallery_PartyBrawl:
+gallery_MAR:
   # Recommended: width "240px" to "320px" keeps a neat grid
   - url: assets/images/MonstersAndRangers/MAR-Leveldesign1.png
     image_path: assets/images/MonstersAndRangers/MAR-Leveldesign1.png
@@ -38,21 +38,31 @@ Welcome to my Year 1 Video Game Projects!
 
 The first project i will show off to you is the Monster and Rangers 2D Top down adventure game for the "2D game design" module!
 
-{%include figure image_path="assets/images/PartyBrawlPick.png" alt="Party Brawl!" caption="Party Brawl Banner" %}
-
-This project will also feature in my board game section in more detail with a "how to play!" section attached aswell!
-
-
-{% include gallery id="gallery_PartyBrawl" layout="third" thumb_height="180px" %}
-
-
-Party Brawl is a drinking card battler with the theme of you being invited to a house party and all the creatures, events and items all represent what you will find at that party!
+{%include figure imaassets/images/MonstersAndRangers/Garlick.png" alt="Party Brawl!" caption="Garlick" %}
 
 
 
-{% include figure image_path="assets/images/PartyBrawl/PartBrawlerMonster.png" alt="Party Brawl Monster Card" caption="This is the Creature Card of the game!" %}
+
+{% include gallery id="gallery_MAR" layout="third" thumb_height="180px" %}
 
 
+“Monsters & Rangers” is a 2D monster battler adventure game set in a semi modern 
+fantasy world. You play as a newly graduated Wild Ranger who helps tames 
+monsters to keep them and the people in the world safe! You will use your monsters' 
+skills and abilities to tame monsters, defeat the dastardly evil-doers and level up to 
+become the best tamer in the world!
+
+
+
+You start with your Thunder Type battery themed monster companion "Moustatic"!
+
+{% include figure image_path="assets/images/MonstersAndRangers/Moustatic-png.png" alt="Moustatic Companion" caption="Moustatic Companion" %}
+
+Monsters with abilities are also native to this land and 
+inhabit the wilds, these abilities are elemental in nature, and each type of creature 
+will have corresponding attacks and abilities to match!
+
+{% include figure image_path="assets/images/MonstersAndRangers/Garlick.png" alt="First Enemy; Garlick!" caption="First Enemy; Garlick!" %}
 
 
 This is a project page that is a child of Projects. Take a look at `projects-game-jam.md`to how see the sidebar key displays the nested navigation. 
