@@ -7,35 +7,36 @@ sidebar:
   title: "University Year 1 Projects"
   nav:
     - Uni Year 1
+    
 gallery_PartyBrawl:
   # Recommended: width "240px" to "320px" keeps a neat grid
-  - url: assets/images/PartyBrawl/PBEvent.png
-    image_path: assets/images/PartyBrawl/PBEvent.png
-    alt: "Event Card"
-    title: "Event Cards!"
-    caption: "Events!"
-  - url: assets/images/PartyBrawl/PBItem.png
-    image_path: assets/images/PartyBrawl/PBItem.png
-    alt: "ITEMS"
-    title: "Item Cards"
-    caption: "Events"
-  - url: assets/images/PartyBrawl/PartBrawlerMonster.png
-    image_path: assets/images/PartyBrawl/PartBrawlerMonster.png
-    alt: "Monsters"
-    title: "Party Goer Cards"
-    caption: "Party Members"
-  - url: assets/images/PartyBrawlPick.png
-    image_path: assets/images/PartyBrawlPick.png
-    alt: "Party Brawl Game Mat"
-    title: "Placeholder Game Mat"
-    caption: "Placeholder Game Mat"
+  - url: assets/images/MonstersAndRangers/MAR-Leveldesign1.png
+    image_path: assets/images/MonstersAndRangers/MAR-Leveldesign1.png
+    alt: "City HUB"
+    title: "City HUB"
+    caption: "City HUB"
+  - url: assets/images/MonstersAndRangers/MAR-Leveldesign2.png
+    image_path: assets/images/MonstersAndRangers/MAR-Leveldesign2.png
+    alt: "Labyrnth Level Design"
+    title: "Labyrnth Level Design"
+    caption: "Labyrnth Level Design"
+  - url: assets/images/MonstersAndRangers/MAR-Leveldesign3.png
+    image_path: assets/images/MonstersAndRangers/MAR-Leveldesign3.png
+    alt: "Tutorial Zone"
+    title: "Tutorial Zone"
+    caption: "Tutorial Zone"
+  - url: assets/images/MonstersAndRangers/MAR-Leveldesign4.png
+    image_path: assets/images/MonstersAndRangers/MAR-Leveldesign4.png
+    alt: "Market and Sports Stadium"
+    title: "Market and Sports Stadium"
+    caption: "Market and Sports Stadium"
   
     
 ---
 
-Welcome to my Year 1 Projects!
+Welcome to my Year 1 Video Game Projects!
 
-The first project i will show off to you is the University Party Brawl card battling game that was created for my board game design module!
+The first project i will show off to you is the Monster and Rangers 2D Top down adventure game for the "2D game design" module!
 
 {%include figure image_path="assets/images/PartyBrawlPick.png" alt="Party Brawl!" caption="Party Brawl Banner" %}
 
