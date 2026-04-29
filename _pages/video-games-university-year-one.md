@@ -46,9 +46,13 @@ Welcome to my Year 1 Projects!
 
 The first project i will show off to you is the University Party Brawl card battling game that was created for my board game design module!
 
+This project will also feature in my board game section in more detail with a "how to play!" section attached aswell!
+
 
 {% include gallery id="gallery_PartyBrawl" layout="third" thumb_height="180px" %}
 
+
+Party Brawl is a drinking card battler with the theme of you being invited to a house party and all the creatures, events and items all represent what you will find at that party!
 
 
 
