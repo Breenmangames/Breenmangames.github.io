@@ -10,6 +10,9 @@ sidebar:
 
     
 ---
+
+title: "Party Brawl!"
+
 {% include figure image_path="assets/images/PartyBrawl/PartBrawlerMonster.png" alt="Party Brawl Monster Card" caption="This is the Creature Card of the game!" %}
 
 
