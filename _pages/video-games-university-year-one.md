@@ -49,7 +49,7 @@ Party Brawl is a drinking card battler with the theme of you being invited to a 
 
 
 
-{% # Recommended: width "240px" to "320px" include figure image_path="assets/images/PartyBrawl/PartBrawlerMonster.png" alt="Party Brawl Monster Card" caption="This is the Creature Card of the game!" %}
+{% include figure image_path="assets/images/PartyBrawl/PartBrawlerMonster.png" alt="Party Brawl Monster Card" caption="This is the Creature Card of the game!" %}
 
 
 
