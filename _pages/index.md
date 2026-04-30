@@ -18,6 +18,8 @@ intro:
 feature_row:
   - image_path: assets/images/PartyBrawlPick.png
     alt: "placeholder"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
     title: "Party Brawl!"
     excerpt: "The drinking card game for those with strategy and competitive spirit!"
     url: /Board-Games/party-brawl/
@@ -39,6 +41,9 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
+BreenmanGames is an independent game studio that specialises in board games and fantasy game stories. You might know me from the Party Brawl Card Game! Since my beginnings in early 2026, I spent the next 3 years in university teling short stories such as Monsters and Rangers, Party Brawl, and much more to come.
+
+Right now, Breenmangames is currently working on Ode to Silvervale to establish a portfolio upgrade in the fantasy story telling space, more to come on that soon!
 
 {% include feature_row id="intro" type="center" %}
 
