@@ -44,7 +44,7 @@ Here is our Demo Trailer!
 {% include video id="H2SKikY0oEo" provider="youtube" %}
 
 
-{%include figure image_path="assets/images/MonstersAndRangers/Garlick.png" alt="Party Brawl!" caption="Garlick" %}
+
 
 
 
