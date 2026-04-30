@@ -23,13 +23,13 @@ feature_row:
     title: "Party Brawl!"
     excerpt: "The drinking card game for those with strategy and competitive spirit!"
     url: /Board-Games/party-brawl/
-  - image_path: /assets/images/VillainModel.png
+  - image_path: assets/images/MonstersAndRangers/MAR-Title.png
     alt: "placeholder image 2"
     btn_label: "Read More"
     btn_class: "btn--primary"
-    title: "Absolute Villainy"
-    excerpt: "Stop the villain at all costs in this 3v1 card based boardgame!"
-    url: /Board-Games/absolute-villainy/
+    title: "Monsters and Rangers!"
+    excerpt: "Stop the Evil Team GDAD in this monster battler!"
+    url: /Video-Games/Uni-Year-1/
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/OdetoSilvervale.png
