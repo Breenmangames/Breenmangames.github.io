@@ -72,23 +72,42 @@ Party Phase
 
 This is the main phase of the game where the majority of the gameplay will be held. 
 In this phase you can do any of the following actions if you have the points and can do it in any order.
+
 •	Draw a card (1 action point)
+
 •	Play an event card (0 -2 action points)
+
 •	Play an item card (0 -2 action points)
+
 •	Play a brawler card (0 -2 action)
+
 •	Start a brawl (1 action point per brawler)
+
 Brawl phase
+
 The brawl phase is the battle phase and the last phase of the turn. To enter this phase, you must have started a brawl in your party phase using one of your brawlers. The battle phase is done in sequence in this precise order
+
 •	Declare what brawler is going to attack the opponent (you choose which opponent If there is more than one opponent)
+
 •	If there is a tapped brawler on an opponent’s side of the field, you can redirect the attack to that tapped brawler
+
 •	You can now activate start of brawl events and brawler abilities here if you have the action points to do so. Your opponent can respond to these cards with quick event cards and abilities if able.
+
 •	If the opponent is being attacked, they can bring an untapped brawler in the party zone to the brawl zone and block the attack.
+
 •	Once blocks are declared we go into Resolving A Brawl
+
 •	Once resolving a brawl is completed the turn ends and it passes to the next player in turn order
+
 Resolving A Brawl
+
 The resolution of a brawl will depend on two factors:
+
 •	Using a battle specific event card or ability that will stop or deal with the attacking brawler so that it is no longer brawling.
+
 •	Overpowering the opposing brawler: Each brawler has a power level as listed on the bottom right of the card.  lets go through some scenarios to show off different ways this can play out:
+
+
 o	Scenario 1- You have a brawler with higher power: you control a brawler with 3 power and your opponent blocks with a brawler with 2 power. Both brawlers deal damage to each other and since you had more power than them, their brawler will be sent to the knocked out zone.  Excess damage does not carry over to your opponent unless specified by another card.
 
 
