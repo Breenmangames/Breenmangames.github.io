@@ -38,6 +38,12 @@ Welcome to my Year 1 Video Game Projects!
 
 The first project i will show off to you is the Monster and Rangers 2D Top down adventure game for the "2D game design" module!
 
+Here is our Demo Trailer!
+
+
+{% include video id="H2SKikY0oEo" provider="youtube" %}
+
+
 {%include figure image_path="assets/images/MonstersAndRangers/Garlick.png" alt="Party Brawl!" caption="Garlick" %}
 
 
