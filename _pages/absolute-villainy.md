@@ -12,4 +12,7 @@ header:
 excerpt: "Splash layout adds a large hero area at the top of the page."
 ---
 
+
+Game is not ready to be spoken about yet so took this off the main page but kept the components here so that when it is ready to be announced i will use this page!
+
 This page uses the `splash` layout. It is great for homepages and strong visual intros.

@@ -18,6 +18,8 @@ intro:
 feature_row:
   - image_path: assets/images/PartyBrawlPick.png
     alt: "placeholder"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
     title: "Party Brawl!"
     excerpt: "The drinking card game for those with strategy and competitive spirit!"
     url: /Board-Games/party-brawl/
@@ -38,6 +40,29 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
+
+<div style="display:flex; flex-wrap:wrap; gap:2rem; align-items:flex-start;">
+<!-- LEFT: text content -->
+<div style="flex:1 1 250px; min-width:250px;">
+<h2>BreenmanGames</h2>
+<p>
+BreenmanGames is an independent game studio that specialises in board games and fantasy game stories. You might know me from the Party Brawl Card Game! Since my beginnings in early 2026, I spent the next 3 years in university teling short stories such as Monsters and Rangers, Party Brawl, and much more to come.
+
+Right now, Breenmangames is currently working on Ode to Silvervale to establish a portfolio upgrade in the fantasy story telling space, more to come on that soon!
+</p>
+</div>
+<!-- RIGHT: video/content area -->
+<div style="flex:1 1 250px; min-width:250px;">
+<!-- Replace this placeholder with a YouTube iframe or a video tag -->
+{% include figure image_path="assets/images/SnakeFlavicon.png" alt="Ranger Tutorial Zone" caption="Studio Logo" %}
+
+</div>
+</div>
+
+
+I am currently a first year university student in the University of Ulster! This page will be updated with new projects that is worked on as my course progresses and with any independent projects as we go! 
+
+I hope to lean into the educational side of the industry and teach the next generation of developers so that they can create works of art!
 
 
 {% include feature_row id="intro" type="center" %}
