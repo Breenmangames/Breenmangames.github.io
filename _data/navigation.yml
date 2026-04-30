@@ -13,8 +13,8 @@ main:
         url: /Board-Games/party-brawl/
       - title: "Ode To Silvervale"
         url: /Video-Games/Ode-To-Silvervale/
-  - title: "Components"
-    url: /components/
+  - title: "About Me!"
+    url: /about-me/
 
 # Sidebar menu for the Video Games page
 VideoGames:
@@ -27,5 +27,4 @@ VideoGames:
 BoardGames:
   - title: "Party Brawl"
     url: /Board-Games/party-brawl
-  - title: "Absolute Villainy"
-    url: /Board-Games/absolute-villainy
+ 
