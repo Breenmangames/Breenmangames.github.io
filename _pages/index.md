@@ -54,7 +54,7 @@ Right now, Breenmangames is currently working on Ode to Silvervale to establish 
 <!-- RIGHT: video/content area -->
 <div style="flex:1 1 250px; min-width:250px;">
 <!-- Replace this placeholder with a YouTube iframe or a video tag -->
-{% include figure image_path="assets/images/favicon.png" alt="Ranger Tutorial Zone" caption="Studio Logo" %}
+{% include figure image_path="assets/images/SnakeFlavicon.png" alt="Ranger Tutorial Zone" caption="Studio Logo" %}
 
 </div>
 </div>
