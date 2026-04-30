@@ -72,6 +72,25 @@ appealing to all demographics.
 </div>
 </div>
 
+<div style="display:flex; flex-wrap:wrap; gap:2rem; align-items:flex-start;">
+<!-- LEFT: video/content area -->
+<div style="flex:1 1 250px; min-width:250px;">
+<h2>Ode to Silvervale</h2>
+<p>
+<!-- Replace this placeholder with a YouTube iframe or a video tag -->
+{% include figure image_path="assets/images/OdetoSilvervale.png" alt="Narrator" caption="Narrator" %}  
+
+</p>
+</div>
+<!-- RIGHT: Text area -->
+<div style="flex:1 1 250px; min-width:250px;">
+Ode to Silvervale is a fantasy 3rd Person tactics game with gameplay in the vein of X-Com and Final Fantasy Tactics. You follow a band of adventuring bards called "Broken Blade" as they are plunged into a uncovering what happened to their village when they were children!
+
+You will create a party, level them up and customise their skills and abilities so that you can create YOUR team and take on this fantasy world with everything that is to offer!
+
+</div>
+</div>
+
 
 
 
