@@ -46,9 +46,9 @@ Welcome to my Year 1 Board Game Project "Party Brawl!
 
 {%include figure image_path="assets/images/PartyBrawlPick.png" alt="Party Brawl!" caption="Party Brawl Banner" %}
 
-How to Play!
+                                             How to Play!
 
-Turn Structure
+                                             Turn Structure
 
 
 University Party Brawl’s turn structure has 3 phases
@@ -56,7 +56,7 @@ University Party Brawl’s turn structure has 3 phases
 2.	The party phase
 3.	The brawl phase
 
-Sober Up Phase
+                                             Sober Up Phase
 
 The sober up phase is the very first phase of the game.  if it is the very first turn in the game, this phase is skipped!
 Your opponent cannot interact with you on this phase.
@@ -68,7 +68,7 @@ It consists of the following actions that are done in sequence
 •	Draw 1 card if the amount of cards in your hand is less than five.
 Note: no cards from the hand can be played by either player during this phase!
 
-Party Phase
+                                            Party Phase
 
 This is the main phase of the game where the majority of the gameplay will be held. 
 In this phase you can do any of the following actions if you have the points and can do it in any order.
@@ -83,7 +83,7 @@ In this phase you can do any of the following actions if you have the points and
 
 •	Start a brawl (1 action point per brawler)
 
-Brawl phase
+                                            Brawl phase
 
 The brawl phase is the battle phase and the last phase of the turn. To enter this phase, you must have started a brawl in your party phase using one of your brawlers. The battle phase is done in sequence in this precise order
 
@@ -99,7 +99,7 @@ The brawl phase is the battle phase and the last phase of the turn. To enter thi
 
 •	Once resolving a brawl is completed the turn ends and it passes to the next player in turn order
 
-Resolving A Brawl
+                                           Resolving A Brawl
 
 The resolution of a brawl will depend on two factors:
 
