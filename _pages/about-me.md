@@ -34,7 +34,7 @@ That realisation has led me down this new path of game design! I am currently a 
 
 
 
-if you wish to contact me, please use the link below and i will be in touch!
+If you wish to contact me, please use the link below and i will be in touch!
 
 
 
