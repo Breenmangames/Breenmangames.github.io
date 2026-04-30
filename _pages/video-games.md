@@ -13,18 +13,13 @@ sidebar:
     - VideoGames
 
 feature_row:
-  - image_path: assets/images/PartyBrawlPick.png
-    alt: "placeholder"
-    title: "Party Brawl!"
-    excerpt: "The drinking card game for those with strategy and competitive spirit!"
-    url: /Board-Games/party-brawl/
-  - image_path: /assets/images/VillainModel.png
-    alt: "placeholder image 2"
+  - image_path: /assets/images/MonstersAndRangers/Garlick.png
+    alt: "Garlick"
     btn_label: "Read More"
     btn_class: "btn--primary"
-    title: "Absolute Villainy"
-    excerpt: "Stop the villain at all costs in this 3v1 card based boardgame!"
-    url: /Board-Games/absolute-villainy/
+    title: "Monsters and Rangers"
+    excerpt: "Capture monsters and save the world!"
+    url: /Video-Games/Uni-Year-1/
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/OdetoSilvervale.png
