@@ -77,7 +77,7 @@ appealing to all demographics.
 <div style="display:flex; flex-wrap:wrap; gap:2rem; align-items:flex-start;">
 <!-- LEFT: video/content area -->
 <div style="flex:1 1 250px; min-width:250px;">
-<h2>BreenmanGames</h2>
+<h2>Ode to Silvervale</h2>
 <p>
 <!-- Replace this placeholder with a YouTube iframe or a video tag -->
 {% include figure image_path="assets/images/OdetoSilvervale.png" alt="Narrator" caption="Narrator" %}  
