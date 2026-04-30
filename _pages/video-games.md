@@ -12,6 +12,7 @@ sidebar:
   nav:
     - VideoGames
 
+videoGameFeature:
 feature_row:
   - image_path: /assets/images/MonstersAndRangers/Garlick.png
     alt: "Garlick"
@@ -32,7 +33,7 @@ feature_row:
 ---
 
 
-{% include feature_row id="intro" type="center" %}
+{% include feature_row id="videoGameFeature" type="center" %}
 
 {% include feature_row %}
  
