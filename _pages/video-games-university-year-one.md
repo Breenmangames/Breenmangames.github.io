@@ -34,16 +34,31 @@ gallery_MAR:
     
 ---
 
-Welcome to my Year 1 Video Game Projects!
+Welcome to my Year 1 Video Game Project Monsters and Rangers!
 
-The first project i will show off to you is the Monster and Rangers 2D Top down adventure game for the "2D game design" module!
 
-Here is our Demo Trailer!
 
 
 {% include video id="H2SKikY0oEo" provider="youtube" %}
 
+<div style="display:flex; flex-wrap:wrap; gap:2rem; align-items:flex-start;">
+<!-- LEFT: text content -->
+<div style="flex:1 1 250px; min-width:250px;">
+<h2>Monsters and Rangers Trailer</h2>
+<p>
 
+The first project i will show off to you is the Monster and Rangers 2D Top down adventure game for the "2D game design" module!
+
+Here is our Demo Trailer!
+</p>
+</div>
+<!-- RIGHT: video/content area -->
+<div style="flex:1 1 250px; min-width:250px;">
+<!-- Replace this placeholder with a YouTube iframe or a video tag -->
+{% include video id="H2SKikY0oEo" provider="youtube" %}
+
+</div>
+</div>
 
 
 
